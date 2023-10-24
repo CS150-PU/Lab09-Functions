@@ -1,7 +1,7 @@
 //**********************************************************************
 // File name:			main.cpp
 // Author:				Computer Science, Pacific University
-// Date:					10/26/21
+// Date:					10/24/23
 // Class:					CS150
 // Assignment:		Lab09
 // Purpose:				This program enters a simple fraction's numerator and 
@@ -109,7 +109,7 @@ Returned:			An integer greater than or equal to 0
 ***********************************************************************/
 int getPositiveInt (string prompt) {
 
-	return 0;
+	return 0; // You will not return 0 when this function is complete
 }
 
 /***********************************************************************
@@ -138,7 +138,7 @@ Returned:			The smallest value between num1 and num2
 ***********************************************************************/
 int minimum (int num1, int num2) {
 
-	return 0;
+	return 0; // You will not return 0 when this function is complete
 }
 
 /***********************************************************************
@@ -154,7 +154,7 @@ Returned:			The greatest common divisor of two integers
 ***********************************************************************/
 int greatestCommonDivisor (int num1, int num2) {
 
-	return 0;
+	return 0; // You will not return 0 when this function is complete
 }
 
 /***********************************************************************
@@ -183,5 +183,5 @@ Parameters:		aDouble - the double to be rounded
 Returned:			A double rounded to specified number of places
 ***********************************************************************/
 double roundFraction (double aDouble, int anInt) {
-	return 0.0;
+	return 0.0; // You will not return 0.0 when this function is complete
 }
